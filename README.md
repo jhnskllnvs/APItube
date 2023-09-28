@@ -1,4 +1,3 @@
-# APItube
 Primeira API de minha autoria. Feita em python usando FastAPI e SQLAlchemy. Baseada no desafio Alura de Backend.
 
 > Essa API roda em localhost, no endereço padrão que o uvicorn oferece (127.0.0.1:8000)
