@@ -5,7 +5,7 @@ Primeira API de minha autoria. Feita em python usando FastAPI e SQLAlchemy. Base
 
 > Ela é feita com um banco de dados relacional MySQL em mente (Versão MySQL: 8.0)
 
-> Usuário root, senha root. Nesse sentido, não há medidas de segurança instauradas.
+> Usuário root, senha root, localhost. Nesse sentido, não há medidas de segurança instauradas.
 
 # --- PROBLEMAS CONHECIDOS --- #
 
