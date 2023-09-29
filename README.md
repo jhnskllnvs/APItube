@@ -19,7 +19,7 @@ Primeira API de minha autoria. Feita em python usando FastAPI e SQLAlchemy. Base
 
 > A busca por categorias é em título ao invés de ID.
 
-> O método update_video requer todas as informações colocadas novamente para funcionar.
+> Os métodos update_video e update_category requerem todas as informações colocadas novamente para funcionarem.
 
 # --- CONSIDERAÇÕES FINAIS --- #
 
